@@ -4,3 +4,4 @@ djangorestframework-simplejwt==5.5.1
 django-cors-headers==4.4.0
 sqlparse==0.5.3
 psycopg2-binary==2.9.8  # optional, only if using PostgreSQL
+gunicorn==21.2.0
